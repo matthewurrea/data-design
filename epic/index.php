@@ -2,9 +2,10 @@
 <html>
 <head>
 	<title>Data Design Project</title>
+	<link rel="stylesheet" href="styles/style.css">
 </head>
-<body>
-<h1>Data Design Project for Bandcamp</h1>
+<body class="nav">
+<h1>Data Design Project for Bandcamp.com</h1>
 <div>
 <a href="persona.php">Persona</a>
 </div>
