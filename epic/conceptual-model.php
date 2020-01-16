@@ -9,28 +9,8 @@
 	<h2>Conceptual Model</h2>
 	<a href="index.php">Home</a>
 </div>
-Entities -PROFILE
-			-ALBUM
-			-wishlist
-<p>
-	<strong>PROFILE</strong>
-	profileID
-	profileActivationToken
-	profileEmail
-	profileHash
-	profileCollection
-	<strong>ALBUM</strong>
-	albumID
-	albumProfileID
-	albumContent(music)
-	albumDateReleased
-	<strong>WISHLIST</strong>
-	wishlistID
-	wishlistCollectionID
+<h3>Entity Relationship Diagram</h3>
+<img src="image/bandcampERD.png" alt="Entity Relationship Diagram">
 
-</p>
-
-bandData
-fanData
 </body>
 </html>
