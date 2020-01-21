@@ -20,7 +20,7 @@
 		<h3>Interaction Flow</h3>
 	<ol>
 		<li>User connects to Bandcamp.</li>
-		<li>Site displays Eddies profile.</li>
+		<li>Site displays Eddie's profile.</li>
 		<li>User clicks search bar and selects a specific genre.</li>
 		<li>Site displays multiple genres in a drop-down list.</li>
 		<li>User selects Genre from drop-down list.</li>
