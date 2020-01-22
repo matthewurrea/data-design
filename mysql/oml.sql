@@ -13,4 +13,4 @@ SELECT profileEmail from profile WHERE profileId = UNHEX('95326aa23c684ea38aac7f
 
 SELECT profile.profileEmail FROM profile INNER JOIN album on profile.profileId = album.albumProfileId WHERE profileActivationToken = 'nananananananananananananananana';
 
-SELECT tweetID COUNT likeTweetID AS likes
+#SELECT tweetID COUNT likeTweetID AS likes
